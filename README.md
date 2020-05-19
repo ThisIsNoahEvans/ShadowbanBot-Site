@@ -1,2 +1,1 @@
-# ShadowbanBot
-Twitter Shadowban Bot
+# Coming soon...
